@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "es2020",
+        "esModuleInterop": false,
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "useUnknownInCatchVariables": true,
+        "skipLibCheck": true
+    }
+}
